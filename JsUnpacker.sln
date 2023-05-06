@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsUnpacker", "JsUnpacker\JsUnpacker.csproj", "{1604D4B7-C2B9-405C-8B7B-79CDE28A21A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C20AE6AA-3B47-496F-9E57-1B389CE607C8}"
+	ProjectSection(SolutionItems) = preProject
+		Directory.Build.props = Directory.Build.props
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsUnpacker.DemoConsole", "JsUnpacker.DemoConsole\JsUnpacker.DemoConsole.csproj", "{8B44CCC3-DCD7-42DA-8396-F5BA4506E846}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1604D4B7-C2B9-405C-8B7B-79CDE28A21A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1604D4B7-C2B9-405C-8B7B-79CDE28A21A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1604D4B7-C2B9-405C-8B7B-79CDE28A21A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1604D4B7-C2B9-405C-8B7B-79CDE28A21A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B44CCC3-DCD7-42DA-8396-F5BA4506E846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B44CCC3-DCD7-42DA-8396-F5BA4506E846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B44CCC3-DCD7-42DA-8396-F5BA4506E846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B44CCC3-DCD7-42DA-8396-F5BA4506E846}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F241837-D786-44CD-8CD8-30633026AAF1}
+	EndGlobalSection
+EndGlobal
