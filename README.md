@@ -1,6 +1,12 @@
-# JsUnpacker
+<h1 align="center">
+    JsUnpacker
+</h1>
 
-JsUnpacker is a class to decode Dean Edwards' JavaScript Packer.
+<p align="center">
+   <a href="https://nuget.org/packages/JsUnpacker"><img src="https://img.shields.io/nuget/dt/JsUnpacker.svg?label=Downloads&color=%233DDC84&logo=nuget&logoColor=%23fff&style=for-the-badge"></a>
+</p>
+
+**JsUnpacker** is a class to decode Dean Edwards' JavaScript Packer.
 
 ## Usage
 ``` c#
