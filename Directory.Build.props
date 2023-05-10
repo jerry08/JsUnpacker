@@ -13,7 +13,7 @@
   <PropertyGroup>
     <Authors>$(Company)</Authors>
     <PackageTags>javascript unpack decode</PackageTags>
-    <PackageProjectUrl>https://github.com/jerry08/Juro</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/jerry08/JsUnpacker</PackageProjectUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseExpression>LGPL-3.0-only</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
